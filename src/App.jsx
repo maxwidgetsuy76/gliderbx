@@ -232,7 +232,7 @@ function App() {
             <svg viewBox="0 0 50 50" width="28" height="28">
               <path fill="#e2231a" d="M 12.125 1.9980469 A 1.0001 1.0001 0 0 0 11.199219 2.7441406 L 2.0332031 37.576172 A 1.0001 1.0001 0 0 0 2.7460938 38.798828 L 37.580078 47.966797 A 1.0001 1.0001 0 0 0 38.802734 47.253906 L 47.96875 12.419922 A 1.0001 1.0001 0 0 0 47.255859 11.197266 L 12.421875 2.03125 A 1.0001 1.0001 0 0 0 12.125 1.9980469 z M 21.5 19 L 31 21.5 L 28.5 31 L 19 28.5 L 21.5 19 z"/>
             </svg>
-            TROBUX.COM
+            GlideRBX
           </div>
           <div className="nav-stat"><i className="fas fa-circle"></i> {onlineCount} online</div>
         </div>
@@ -247,7 +247,7 @@ function App() {
                 <path fill="#e2231a" d="M 12.125 1.9980469 A 1.0001 1.0001 0 0 0 11.199219 2.7441406 L 2.0332031 37.576172 A 1.0001 1.0001 0 0 0 2.7460938 38.798828 L 37.580078 47.966797 A 1.0001 1.0001 0 0 0 38.802734 47.253906 L 47.96875 12.419922 A 1.0001 1.0001 0 0 0 47.255859 11.197266 L 12.421875 2.03125 A 1.0001 1.0001 0 0 0 12.125 1.9980469 z M 21.5 19 L 31 21.5 L 28.5 31 L 19 28.5 L 21.5 19 z"/>
               </svg>
             </div>
-            <h1>FREE ROBUX with TROBUX.COM</h1>
+            <h1>FREE ROBUX with GlideRBX</h1>
             <p>Get Robux, Premium and Limiteds on your Roblox account instantly.</p>
             <div className="hero-tags">
               <span className="tag"><i className="fas fa-circle-check"></i> Secure</span>
